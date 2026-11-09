@@ -1,0 +1,7 @@
+id,script,inflection,comment,type,suppress
+1089,Staff announcement. Could the conductor please contact the driver?,,,,
+1090,"Staff announcement, the passenger alarm has been activated. Can the conductor please answer the call?",,,,
+1090a,"Staff announcement, the passenger alarm has been activated.",,,,
+1090coachA,"Staff announcement, the passenger alarm has been activated. Please could a member of staff attend coach A.",,,,
+5111,"For your safety and security, this train is fitted with CCTV. Please keep your belongings with you or in sight at all times. And if you notice anything suspicious, please speak to a member of staff or text the British Transport Police on 61016. If you see it, say it and we'll sort it.",,,,
+5112,"For your safety and security, this train is fitted with CCTV. Please keep your belongings with you, or in sight, at all times. And if you notice anything suspicious, please speak to a member of staff, or text the British Transport Police on 61016.",,,,
