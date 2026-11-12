@@ -1,7 +1,7 @@
 id,script,inflection,comment,type,suppress
-1089,Staff announcement. Could the conductor please contact the driver?,,,,
-1090,"Staff announcement, the passenger alarm has been activated. Can the conductor please answer the call?",,,,
-1090a,"Staff announcement, the passenger alarm has been activated.",,,,
-1090coachA,"Staff announcement, the passenger alarm has been activated. Please could a member of staff attend coach A.",,,,
-5111,"For your safety and security, this train is fitted with CCTV. Please keep your belongings with you or in sight at all times. And if you notice anything suspicious, please speak to a member of staff or text the British Transport Police on 61016. If you see it, say it and we'll sort it.",,,,
-5112,"For your safety and security, this train is fitted with CCTV. Please keep your belongings with you, or in sight, at all times. And if you notice anything suspicious, please speak to a member of staff, or text the British Transport Police on 61016.",,,,
+1089,staff announcement could the conductor please contact the driver,,,,
+1090,staff announcement the passenger alarm has been activated can the conductor please answer the call,,,,
+1090a,staff announcement the passenger alarm has been activated,,,,
+1090coachA,staff announcement the passenger alarm has been activated please could a member of staff attend coach a,,,,
+5111,for your safety and security this train is fitted with cctv please keep your belongings with you or in sight at all times and if you notice anything suspicious please speak to a member of staff or text the british transport police on 61016 if you see it say it and well sort it,,,,
+5112,for your safety and security this train is fitted with cctv please keep your belongings with you or in sight at all times and if you notice anything suspicious please speak to a member of staff or text the british transport police on 61016,,,,

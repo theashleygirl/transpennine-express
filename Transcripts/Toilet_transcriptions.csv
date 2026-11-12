@@ -1,6 +1,6 @@
 id,script,inflection,comment,type,suppress
-1084,Don't forget to lock the door.,,,,
-1085,"Sorry, this toilet is out of service.",,,,
-1086,The door is locked.,,,,
-1087,The door is now unlocked.,,,,
-1088,This toilet is occupied.,,,,
+1084,dont forget to lock the door,,,,
+1085,sorry this toilet is out of service,,,,
+1086,the door is locked,,,,
+1087,the door is now unlocked,,,,
+1088,this toilet is occupied,,,,
