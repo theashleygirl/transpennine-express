@@ -77,8 +77,8 @@ script,comment,inflection,type,voice
 1088,this toilet is occupied ,e,toilet,female 
 1089,staff announcement could the conductor please contact the driver,e,,female
 1090,staff announcement the passenger alarm has been activated can the conductor please answer the call,e,,female 
-       1090a,staff announcement the passenger alarm has been activated,m,,female
-1090coachA,staff announcement the passenger alarm has been  activated please could a member of staff attend coach a,e,,female and male
+1090a,staff announcement the passenger alarm has been activated,m,,female
+1090coacha,staff announcement the passenger alarm has been  activated please could a member of staff attend coach a,e,,female and male
 1091,this door is not in use please move to another door to leave the train,e,door,female
 1092,the doors in this carrage will not open at this station please move to another door to leave the train,e,short platform,male 
 1093,the doors in this carrage will not open at this station please move forward to,m,short platform,male 
